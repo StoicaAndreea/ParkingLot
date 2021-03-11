@@ -1,0 +1,11 @@
+aha aaa free
+bbb MS 75
+SSC occupied ccc
+MS 76 SSC
+occupied ddd MS
+77 SSC free
+aaa MS 74 SSC free
+bbb MS 75 SSC occupied
+ccc MS 76 SSC free
+ddd MS 77 SSC free
+eee MS 77 SSA free
